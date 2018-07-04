@@ -1,9 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to KIM PAN SOO site ~
 
-You can use the [editor on GitHub](https://github.com/kimpansoo/kps3029/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#Raspberry pi zero w + snowboy = 조명 콘드롤 음성스위치
+반갑습니다. 이곳에서는 라즈베리파이 제로 W와 음성 핫디텍션[SNOWBOY](https://snowboy.kitt.ai/)로 음성제어 조명스위치를 만들어 보았습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>[라즈베리파이 제로 w와 SNOWBOY 해설](https://app.box.com/notes/299018715900) 
 
+>[동영상](https://drive.google.com/open?id=1zZ5AiDI05GIpqeC_7p4Z9xxkVcEuKtmj)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
